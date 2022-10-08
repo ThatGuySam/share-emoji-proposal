@@ -26,6 +26,7 @@ We certify that the images have appropriate licenses for use by the UTC.
 
 
 # III. Sort location
+<!-- https://unicode.org/emoji/charts-12.0/full-emoji-list.html#av-symbol -->
 Symbols, av-symbol
 <br>
 🔀🔁🔂▶⏩⏭⏯◀⏪⏮🔼⏫🔽⏬⏸⏹⏺⏏🎦🔅🔆📳📴 { Share Symbol } { Classic Web Share Symbol } { Upward Share Symbol } { Rightward Share Symbol }
