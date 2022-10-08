@@ -15,7 +15,7 @@ Last Updated: TODO
 | Sample Image | Proposed Unicode and CLDR name | Possible CLDR English keywords | Closest Unicode Emoji |
 | --- | --- | --- | --- |
 | Sample Image | Share Symbol | share, connect, send to | ⬆	|
-| Sample Image | Classic Web Share Symbol with 3 dots | share, connect, send to, web | 🔗 |
+| Sample Image | Classic Web Share Symbol | share, connect, send to, web | 🔗 |
 | Sample Image | Upward Share Symbol | share, connect, send to, UP arrow | ⬆ |
 | Sample Image | Rightward Share Symbol | share, connect, send to, RIGHT arrow | ➡ |
 
@@ -27,7 +27,8 @@ We certify that the images have appropriate licenses for use by the UTC.
 
 # III. Sort location
 Symbols, av-symbol
-🔀🔁🔂▶⏩⏭⏯◀⏪⏮🔼⏫🔽⏬⏸⏹⏺⏏🎦🔅🔆📳📴
+<br>
+🔀🔁🔂▶⏩⏭⏯◀⏪⏮🔼⏫🔽⏬⏸⏹⏺⏏🎦🔅🔆📳📴 { Share Symbol } { Classic Web Share Symbol } { Upward Share Symbol } { Rightward Share Symbol }
 
 
 
