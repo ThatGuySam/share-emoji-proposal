@@ -6,7 +6,7 @@ Emoji Submitter: Sam Carlton
 <br>
 Date: Jan 1, 1969
 <br>
-Last Updated: TODO
+Last Updated: <kbd>TODO</kbd>
 
 
 # I. Identification and II. Images
@@ -35,36 +35,36 @@ Symbols, av-symbol
 # II. Selection factors — Inclusion
 
 - A. Compatibility
-  - TODO
+  - <kbd>TODO</kbd>
 - B. Expected use
   - 1. Frequency
-  - TODO
+  - <kbd>TODO</kbd>
   - 2. Multiple usages
-  - TODO
+  - <kbd>TODO</kbd>
   - 3. Use in sequences
-  - TODO
+  - <kbd>TODO</kbd>
   - 4. Breaking new ground
-  - TODO
+  - <kbd>TODO</kbd>
 - C. Image distinctiveness
-  - TODO
+  - <kbd>TODO</kbd>
 - D. Completeness
-  - TODO
+  - <kbd>TODO</kbd>
 
 
 III. Selection factors — Exclusion
 
 - F. Overly specific
-  - TODO
+  - <kbd>TODO</kbd>
 - G. Open-ended
-  - TODO
+  - <kbd>TODO</kbd>
 - H. Already representable
-  - TODO
+  - <kbd>TODO</kbd>
 - I. Logos, brands, UI icons, signage, specific people, deities
-  - TODO
+  - <kbd>TODO</kbd>
 - J. Transient
-  - TODO
+  - <kbd>TODO</kbd>
 - K. Faulty comparison
-  - TODO
+  - <kbd>TODO</kbd>
 - L. Exact Images
   - An exact image is not required.
 
