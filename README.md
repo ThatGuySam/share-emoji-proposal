@@ -48,7 +48,7 @@ Symbols, av-symbol
 - C. Image distinctiveness
   - TODO
 - D. Completeness
-  - 
+  - TODO
 
 
 III. Selection factors — Exclusion
