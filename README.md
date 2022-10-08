@@ -12,18 +12,21 @@ Last Updated: TODO
 # I. Identification and II. Images
 
 
-| Sample Image | Proposed Unicode and CLDR name | Possible CLDR English keywords | Closest Unicode Emoji
+| Sample Image | Proposed Unicode and CLDR name | Possible CLDR English keywords | Closest Unicode Emoji |
 | --- | --- | --- | --- |
-| 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ |
-| 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ |
-| 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ |
+| Sample Image | Share Symbol | share, connect, send to | ⬆	|
+| Sample Image | Classic Web Share Symbol with 3 dots | share, connect, send to, web | 🔗 |
+| Sample Image | Upward Share Symbol | share, connect, send to, UP arrow | ⬆ |
+| Sample Image | Rightward Share Symbol | share, connect, send to, RIGHT arrow | ➡ |
+
+Note: "Share Symbol" is simply the OS/Software Creator's preferred choice as different platforms and software differ on how they represent the share action. 
 
 License
 We certify that the images have appropriate licenses for use by the UTC.
 
 
 # III. Sort location
-Symbol, av-symbol
+Symbols, av-symbol
 
 
 
