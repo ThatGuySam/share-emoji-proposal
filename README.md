@@ -27,6 +27,7 @@ We certify that the images have appropriate licenses for use by the UTC.
 
 # III. Sort location
 Symbols, av-symbol
+🔀🔁🔂▶⏩⏭⏯◀⏪⏮🔼⏫🔽⏬⏸⏹⏺⏏🎦🔅🔆📳📴
 
 
 
