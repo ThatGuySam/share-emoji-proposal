@@ -3,7 +3,9 @@
 # Share Emoji, Classic Share Emoji, Upward Share Emoji, and Rightward Share Emoji
 
 Emoji Submitter: Sam Carlton
+<br>
 Date: Jan 1, 1969
+<br>
 Last Updated: TODO
 
 
